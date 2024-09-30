@@ -4,7 +4,7 @@
 
 This is a simple setup that shows you how to run EC2 instances and register them with a cluster.
 
-Check out the full write up on [our blog](https://elasticscale.com/en/running-ecs-containers-on-ec2-instances-via-terraform/).
+Check out the full write up on [our blog](https://elasticscale.com/running-ecs-containers-on-ec2-instances-via-terraform/).
 
 ## About ElasticScale
 
